@@ -1,0 +1,52 @@
+* {
+margin: 0;
+}
+
+
+body {
+    font-family:  'Roboto', sans-serif;
+    background-color:darkgrey
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    display:flex;
+    height: 70px;
+    background-color: bisque;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo-pizza{
+    display: flex;
+    align-items: center;
+}
+
+.logo-pizza img{
+    height: 50px;
+    margin-right: 10px;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+
+}
+
+nav a:hover{
+    color:aquamarine;
+
+}
+
+
+
+
+
+
+
+
